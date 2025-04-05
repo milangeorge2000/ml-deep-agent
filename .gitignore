@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+outputs/models/*.joblib
+outputs/reports/*.txt
+outputs/code/*.py
+outputs/code/*.pkl
+data/*.csv
+!data/generate_demo.py
